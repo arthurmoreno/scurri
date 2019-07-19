@@ -1,0 +1,6 @@
+ipython==7.6.1
+ipdb==0.12
+pytest==5.0.1
+pytest-cov==2.7.1
+coverage==4.5.3
+coverage-badge==1.0.1
